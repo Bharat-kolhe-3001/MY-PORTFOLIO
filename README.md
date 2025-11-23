@@ -8,23 +8,28 @@ The website includes a clean UI, attractive gradient theme, and small animations
 
 ## 📁 Project Structure
 
+```text
+
 bharat-portfolio/
  ├── index.html
  ├── about.html
  ├── projects.html
- ├── contact.html |_|
- ├── assets/|_|
- │     ├── css/|_|
- │     │     └── style.css|_|
- │     ├── js/|_|
- │     │     ├── main.js|_|
- │     │     └── animations.js|_|
- │     └── images/|_|
- │           ├── portrait.jpg|_|
- │           ├── project1.jpg|_|
- │           └── project2.jpg|_|
+ ├── contact.html
+ ├── assets/
+ │     ├── css/
+ │     │     └── style.css
+ │     ├── js/
+ │     │     ├── main.js
+ │     │     └── animations.js
+ │     └── images/
+ │           ├── portrait.jpg
+ │           ├── project1.jpg
+ │           └── project2.jpg
 
----
+
+
+```
+
 
 ## 🏠 Pages Included
 
